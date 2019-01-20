@@ -1,0 +1,2 @@
+How to install?
+Open scene "Main Menu" in unity-> build Settings -> build and run(Pc platform)

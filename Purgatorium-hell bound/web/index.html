@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Purgatorium - Hellbound</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" media="screen" href="main.css" />
+    <script src="main.js"></script>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.bundle.min.js" integrity="sha384-zDnhMsjVZfS3hiP7oCBRmfjkQC4fzxVxFhBx8Hkz2aZX8gEvA/jsP3eXRCvzTofP" crossorigin="anonymous"></script>
+</head>
+<body>
+    <div class="page-header" style="display:inline-flex">
+        <a onclick="show('home')" href="javascript:void(0);">
+            <img src="img/logo.jpg" style="width:200px; height: 90px;">
+        </a>
+        <a onclick="show('gameplay')" href="javascript:void(0);">
+            <h1 style="margin-top:20px; margin-left: 30px; font-family: Chalkduster, fantasy;">Gameplay</h1>
+        </a>
+        <a onclick="show('screenshots')" href="javascript:void(0);">
+            <h1 style="margin-top:20px; margin-left: 60px; font-family: Chalkduster, fantasy;">Screenshots</h1>
+        </a>
+        <a onclick="show('contact')" href="javascript:void(0);">
+            <h1 style="margin-top:20px; margin-left: 60px; font-family: Chalkduster, fantasy;">Contacts</h1>
+        </a>
+    </div>
+
+    <div class="jumbotron" style="text-align:center; font-family: Chalkduster, fantasy;">
+        <h1>Purgatorium - Hellbound</h1>
+        <p style="font-size:25px;">Abandon all hope those who enter here. Prepare to face all your nightmares using your only obstacle as the only weapon you have!</p>
+    </div>
+
+    <div id="home">
+        <img src="img/logo.jpg" style="margin-left: 200px;">
+        <div class="jumbotron">
+            <h1 style="text-align:center; font-family: Chalkduster, fantasy;">Prepare Your Soul. Prepare Your Brain. But Above All Prepare Yourself.</h1>
+        </div>
+        <div style="display:inline-flex; margin-top: 60px; font-family: Chalkduster, fantasy;">
+            <p style="width: 75%; margin-left: 50px;margin-top: 90px; font-size: 30px;">Purgatorium - Hellbound is an FPS Puzzle Solving Horror game where you have to use your puzzle solving skills to get through the several levels of the game while trying to figure out what happened
+                to your house and wife. Who are you? Dave, the one person that is trapped in the middle of this messy situation, completely unaware of what has happened to anything at all.
+            </p>
+            <img src="img/Screenshot_2.png" height="500px;" width="950px;" style="margin-left: 25px;margin-bottom: 75px;">
+        </div>
+        <div class="jumbotron">
+            <h1 style="text-align:center; font-family: Chalkduster, fantasy;">Some Say It's For Science. Others Might Say We're Just Messing With Your Mind</h1>
+        </div>
+        <div style="display:inline-flex; margin-top: 60px; padding-bottom: 200PX; font-family: Chalkduster, fantasy;">
+            <img src="img/Screenshot_18.png" height="25%" style="margin-left: 25px;">
+            <p style="width: 75%; font-size: 30px; margin-left: 30px;margin-top: 70px;">While developing the game the team had their minds set on one specific goal, among the many we drew for this game. That goal was no more no less than to play with your mind, to explore its weaknesses,
+                    to explore your fears and trust in yourself and in the envirornment around you. Lets see how good of a puzzle solver you are when the only thing you can use to help you solve a puzzle, your mind, is
+                    under such a pressure from your fears.
+            </p>
+        </div>       
+    </div>
+
+    <div id="gameplay" style="display:none; text-align: center; font-family: Chalkduster, fantasy;">
+        <video width="1280" height="720" controls>
+            <source src="vid/gameplay.mp4" type="video/mp4">
+        </video>
+
+        <div class="jumbotron" style="margin-top:75px;">
+            <h1>Still Think You're Strong Enough To Face This?</h1>
+        </div>
+        <p style="font-size: 30px; padding-bottom: 30px;">This game was especailly designed in order to torture your senses in the best possible way. Think we're mean? Just remember we could have made this game in VR but we decided that not even as it stands
+            there is anyone capable of easily beating it. Care to prove us wrong?
+        </p>
+    </div>
+
+    <div id="screenshots" style="display:none; font-family: Chalkduster, fantasy;">
+        <div style="text-align:center;">
+            <a onclick="modal('Image0')" href="javascript:void(0);">
+                <img id="Image0" src="img/logo.jpg" width="350px;" height="300px;" alt="The Logo of Purgatorium - Hellbound" style="width:100%;max-width:600px;max-height:380px;">
+            </a>
+
+            <a onclick="modal('Image1')" href="javascript:void(0);">
+                <img id="Image1" src="img/Screenshot_3.png" width="350px;" height="300px;" alt="One of The Many Puzzles" style="width:100%;max-width:600px;max-height:380px;">
+            </a>
+
+            <a onclick="modal('Image2')" href="javascript:void(0);">
+                <img id="Image2" src="img/Screenshot_21.png" width="350px;" height="300px;" alt="Find The Clues. Find The Answers" style="width:100%;max-width:600px;max-height:380px;">
+            </a>
+        </div>
+
+        <div style="margin-top: 75px;text-align: center;">
+            <a onclick="modal('Image3')" href="javascript:void(0);">
+                <img id="Image3" src="img/Screenshot_12.png" width="350px;" height="300px;" alt="Darkness Shows It Self In Every Corner" style="width:100%;max-width:600px;max-height:380px;">
+            </a>
+
+            <a onclick="modal('Image4')" href="javascript:void(0);">
+                <img id="Image4" src="img/Screenshot_1.png" width="350px;" height="300px;" alt="Symbols, Numbers and Letters, What Is The Meaning In All Of This" style="width:100%;max-width:600px;max-height:380px;">
+            </a>
+
+            <a onclick="modal('Image5')" href="javascript:void(0);">
+                <img id="Image5" src="img/Screenshot_19.png" width="350px;" height="300px;" alt="Find The Way" style="width:100%;max-width:600px;max-height:380px;">
+            </a>
+        </div>
+
+        <div style="margin-top: 75px;text-align: center;">
+            <a onclick="modal('Image9')" href="javascript:void(0);">
+                <img id="Image9" src="img/Screenshot_16.png" width="350px;" height="300px;" alt="Darkness Shows It Self In Every Corner" style="width:100%;max-width:600px;max-height:380px;">
+            </a>
+    
+            <a onclick="modal('Image10')" href="javascript:void(0);">
+                <img id="Image10" src="img/Screenshot_15.png" width="350px;" height="300px;" alt="Symbols, Numbers and Letters, What Is The Meaning In All Of This" style="width:100%;max-width:600px;max-height:380px;">
+            </a>
+    
+            <a onclick="modal('Image11')" href="javascript:void(0);">
+                <img id="Image11" src="img/Screenshot_14.png" width="350px;" height="300px;" alt="Find The Way" style="width:100%;max-width:600px;max-height:380px;">
+            </a>
+        </div>
+
+        <div style="margin-top: 75px;text-align: center;padding-bottom: 75px;">
+            <a onclick="modal('Image6')" href="javascript:void(0);">
+                <img id="Image6" src="img/Screenshot_10.png" width="350px;" height="300px;" alt="Find Out What Happened" style="width:100%;max-width:600px;max-height:380px;">
+            </a>
+            <a onclick="modal('Image7')" href="javascript:void(0);">
+                <img id="Image7" src="img/Screenshot_4.png" width="350px;" height="300px;" alt="Seems Familiar?" style="width:100%;max-width:600px;max-height:380px;">
+            </a>
+            <a onclick="modal('Image8')" href="javascript:void(0);">
+                <img id="Image8" src="img/Screenshot_13.png" width="350px;" height="300px;" alt="The Memories Will Hunt You" style="width:100%;max-width:600px;max-height:380px;">       
+            </a>
+        </div>
+        <!-- The Modal -->
+        <div id="myModal" class="modal">
+            <span class="close">&times;</span>
+            <img class="modal-content" id="img01">
+            <div id="caption"></div>
+        </div>
+    </div>
+
+    <div id="contact" style="display: none; font-family: Chalkduster, fantasy;">
+        <img src="img/working.jpg" style="text-align:center;width: 65%; margin-left: 350px; padding-bottom: 50px;">
+        <div class="jumbotron" style="text-align:center;">
+            <h1>Want To Meet The Conjurers Behind This Video Game?</h1>
+            <p style="font-size:26px;">Then you've clicked on the right link, because besides finding the devs of the game you have also entered the only place in this website where you are actually safe from your fears... or are you? Yheap rest assured
+            you are safe, at least here. Now for starters, the above image does not actually correspond to reality. We're not a huge team working at bungie with years of experience, below you can see what and who we really are.
+            </p>
+        </div>
+
+        <div style="display:flex;text-align: center;margin-left: 150px;padding-top: 75px; padding-bottom: 75px;">
+            <div style="text-align:center;display: inline-flex;">
+                <img src="img/2.jpeg" style="width: 250px;margin-right: 200px;">
+                <img src="img/andre.jpeg" style="width: 250px;margin-right: 200px;">
+            </div>
+            
+            <div style="text-align:center;display: inline-flex;">
+                <img src="img/jose.jpeg" style="width: 250px;margin-right: 200px;">
+                <img src="img/tiago.jpeg" style="width: 250px;margin-right: 200px;">
+            </div>
+        </div>
+        <div style="display:inline-flex;text-align: center;margin-left: 80px;font-size: 30px;">
+            <p>Pedro Maria <br> pedro.maria@tecnico.ulisboa.pt</p>
+            <p style="margin-left: 110px;">André Antunes <br> tunespertunes@gmail.com</p>
+            <p style="margin-left: 130px;">José Maie <br> josemaie@hotmail.com</p>
+            <p style="margin-left: 160px;">Tiago Henriques <br> tiago-toscano@hotmail.com</p>
+        </div>
+
+        <p style="font-size:25px; text-align:center;margin-top:40px;width:100%;">So as you can see, we are no programming Gods, we're students just like you probably are. Above all we are game designers with a vision and we did our best to make that vision a reality.
+            Surely the game you are about to play or have played already isn't a Triple A production, it isn't refined to the point of massive productions. What this game represents for the team
+            is no more no less than an amazing achievement. Four people from which only one was experienced with Unity so you can quite picture the beginning of this project as 3/4 of the team stared into
+            unity almost completely clueless of what to do or where to start. But we knew that it was either doing it in Unity, Unreal or simply abandon the idea and do another game in 2D. We stayed faithfull to
+            our initial idea and ventured into all the challanges and difficulties and we actually managed to make our vision a reality. We can say that it's not 100% what we envisioned but it is for sure something
+            we are proud of as our first project as game designers.
+        </p>
+    </div>
+</body>
+</html>

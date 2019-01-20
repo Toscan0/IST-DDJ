@@ -1,0 +1,20 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 16.03.2018 00:59:40
+
+newmtl Bottle_W
+	Ns 9.999999
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588235 0.588235 0.588235
+	Kd 0.588235 0.588235 0.588235
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka G:\Free3D\Bottle-3D-Model-8c7e0617\max1\Bottle-W1_diffuse.jpg
+	map_Kd G:\Free3D\Bottle-3D-Model-8c7e0617\max1\Bottle-W1_diffuse.jpg
+	map_Ks G:\Free3D\Bottle-3D-Model-8c7e0617\max1\Bottle-W1_specular.png
+	map_d G:\Free3D\Bottle-3D-Model-8c7e0617\max1\Bottle-W1_alpha.png
+	map_bump G:\Free3D\Bottle-3D-Model-8c7e0617\max1\Bottle-W1_normal.png
+	bump G:\Free3D\Bottle-3D-Model-8c7e0617\max1\Bottle-W1_normal.png

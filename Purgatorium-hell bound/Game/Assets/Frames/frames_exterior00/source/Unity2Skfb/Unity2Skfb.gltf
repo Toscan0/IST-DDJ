@@ -1,0 +1,197 @@
+{
+	"asset": {
+		"generator": "Unity 2018.2.6f1",
+		"extras": {
+			"exporterVersion" : "2.2.1"
+		},
+		"version": "2.0"
+	},
+	"accessors": [
+		{
+			"bufferView": 2,
+			"byteOffset": 0,
+			"componentType": 5126,
+			"count": 1072,
+			"max": [ 5.849989, -1.280593, -0.9920514 ],
+			"min": [ 1.980778, -1.372169, -1.809295 ],
+			"type": "VEC3"
+		},
+		{
+			"bufferView": 2,
+			"byteOffset": 12864,
+			"componentType": 5126,
+			"count": 1072,
+			"max": [ 0.9999997, 1, 1 ],
+			"min": [ -0.9999997, 0, -1 ],
+			"type": "VEC3"
+		},
+		{
+			"bufferView": 3,
+			"byteOffset": 0,
+			"componentType": 5126,
+			"count": 1072,
+			"max": [ 1, 1, 1, 1 ],
+			"min": [ 0, 0, 0, 1 ],
+			"type": "VEC4"
+		},
+		{
+			"bufferView": 1,
+			"byteOffset": 0,
+			"componentType": 5126,
+			"count": 1072,
+			"max": [ 4.397522, 1.473061 ],
+			"min": [ -3.397522, 0.3163098 ],
+			"type": "VEC2"
+		},
+		{
+			"bufferView": 1,
+			"byteOffset": 8576,
+			"componentType": 5126,
+			"count": 1072,
+			"max": [ 0.9961522, 0.9966853 ],
+			"min": [ 0.00390625, 0.00390625 ],
+			"type": "VEC2"
+		},
+		{
+			"bufferView": 3,
+			"byteOffset": 17152,
+			"componentType": 5126,
+			"count": 1072,
+			"max": [ 1, 1, 0.7071068, 1 ],
+			"min": [ -1, -1, -0.7071068, 1 ],
+			"type": "VEC4"
+		},
+		{
+			"bufferView": 0,
+			"byteOffset": 0,
+			"componentType": 5123,
+			"count": 3384,
+			"max": [ 1071 ],
+			"min": [ 0 ],
+			"type": "SCALAR"
+		}
+	],
+	"buffers": [
+		{
+			"byteLength": 83952,
+			"uri": "Unity2Skfb.bin"
+		}
+	],
+	"bufferViews": [
+		{
+			"buffer": 0,
+			"byteLength": 6768,
+			"target": 34963,
+			"byteOffset": 77184
+		},
+		{
+			"buffer": 0,
+			"byteLength": 17152,
+			"target": 34962,
+			"byteStride": 8,
+			"byteOffset": 0
+		},
+		{
+			"buffer": 0,
+			"byteLength": 25728,
+			"target": 34962,
+			"byteStride": 12,
+			"byteOffset": 17152
+		},
+		{
+			"buffer": 0,
+			"byteLength": 34304,
+			"target": 34962,
+			"byteStride": 16,
+			"byteOffset": 42880
+		}
+	],
+	"images": [
+		{
+			"uri": "Assets/ArchVizPRO Interior Vol.6/3D MATERIAL/Steel_Painted/Steel_Painted_chipped_basecolor.jpg"
+		},
+		{
+			"uri": "Assets/ArchVizPRO Interior Vol.6/3D MATERIAL/Steel_Painted/Steel_Painted_chipped_metallic_converted_metalRoughness.jpg"
+		}
+	],
+	"materials": [
+		{
+			"pbrMetallicRoughness": {
+				"baseColorTexture" : {
+					"index" : 0,
+					"texCoord" : 0
+				},
+				"baseColorFactor": [0.85, 0.85, 0.85, 1],
+				"metallicRoughnessTexture" : {
+					"index" : 1,
+					"texCoord" : 0
+				},
+				"metallicFactor": 1,
+				"roughnessFactor": 1
+			},
+			"emissiveFactor": [0, 0, 0],
+			"doubleSided": false,
+			"name": "Steel_Painted_Mobile"
+		}
+	],
+	"meshes": [
+		{
+			"name": "mesh_Frames_Exterior00_15658Frames_Exterior00",
+			"primitives": [
+				{
+					"attributes": {
+						"POSITION": 0,
+						"NORMAL": 1,
+						"COLOR_0": 2,
+						"TEXCOORD_0": 3,
+						"TEXCOORD_1": 4,
+						"TANGENT": 5
+					},
+					"indices": 6,
+					"material": 0,
+					"mode": 4
+				}
+			]
+		}
+	],
+	"nodes": [
+		{
+			"name": "UnityGlTF_root",
+			"children": [
+				1
+			]
+		},
+		{
+			"name": "node_Frames_Exterior00_-1682",
+			"mesh": 0,
+			"matrix": [1, 0, 0, 0, 0, -1.192093E-07, 1, 0, 0, -1, -1.192093E-07, 0, -1.60623, 2.022179, 5.871476, 1]
+		}
+	],
+	"samplers": [
+		{
+			"magFilter": 9729,
+			"minFilter": 9985,
+			"wrapS": 10497,
+			"wrapT": 10497
+		}
+	],
+	"scenes": [
+		{
+			"name":"defaultScene",
+			"nodes": [
+				0
+			]
+		}
+	],
+	"scene": 0,
+	"textures": [
+		{
+			"sampler": 0,
+			"source": 0
+		},
+		{
+			"sampler": 0,
+			"source": 1
+		}
+	]
+}

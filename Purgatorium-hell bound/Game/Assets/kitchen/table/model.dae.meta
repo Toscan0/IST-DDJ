@@ -1,0 +1,1455 @@
+fileFormatVersion: 2
+guid: 18b9d7818568db746b75f4de392abd6b
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Bamboo_Shoot
+    100002: Bamboo_Shoot 1
+    100004: group_0
+    100006: group_1
+    100008: group_10
+    100010: group_11
+    100012: group_2
+    100014: group_3
+    100016: group_4
+    100018: group_5
+    100020: group_6
+    100022: group_7
+    100024: group_8
+    100026: group_9
+    100028: ID1057
+    100030: ID1057 1
+    100032: ID1057 2
+    100034: ID1057 3
+    100036: ID1065
+    100038: ID1065 1
+    100040: ID1065 2
+    100042: ID1065 3
+    100044: ID108
+    100046: ID1080
+    100048: ID1080 1
+    100050: ID1086
+    100052: ID1086 1
+    100054: ID1090
+    100056: ID1090 1
+    100058: ID125
+    100060: ID148
+    100062: ID156
+    100064: ID164
+    100066: ID172
+    100068: ID180
+    100070: ID188
+    100072: ID196
+    100074: ID20
+    100076: ID209
+    100078: ID217
+    100080: ID225
+    100082: ID233
+    100084: ID241
+    100086: ID249
+    100088: ID257
+    100090: ID265
+    100092: ID273
+    100094: ID28
+    100096: ID281
+    100098: ID296
+    100100: ID304
+    100102: ID312
+    100104: ID320
+    100106: ID328
+    100108: ID336
+    100110: ID344
+    100112: ID352
+    100114: ID36
+    100116: ID360
+    100118: ID368
+    100120: ID376
+    100122: ID384
+    100124: ID392
+    100126: ID400
+    100128: ID408
+    100130: ID416
+    100132: ID422
+    100134: ID437
+    100136: ID44
+    100138: ID445
+    100140: ID453
+    100142: ID461
+    100144: ID469
+    100146: ID477
+    100148: ID485
+    100150: ID493
+    100152: ID501
+    100154: ID509
+    100156: ID517
+    100158: ID52
+    100160: ID525
+    100162: ID533
+    100164: ID541
+    100166: ID549
+    100168: ID557
+    100170: ID563
+    100172: ID578
+    100174: ID586
+    100176: ID594
+    100178: ID602
+    100180: ID610
+    100182: ID618
+    100184: ID626
+    100186: ID634
+    100188: ID642
+    100190: ID650
+    100192: ID658
+    100194: ID666
+    100196: ID674
+    100198: ID682
+    100200: ID690
+    100202: ID698
+    100204: ID704
+    100206: ID719
+    100208: ID727
+    100210: ID735
+    100212: ID74
+    100214: ID743
+    100216: ID751
+    100218: ID759
+    100220: ID767
+    100222: ID775
+    100224: ID783
+    100226: ID791
+    100228: ID799
+    100230: ID807
+    100232: ID815
+    100234: ID823
+    100236: ID831
+    100238: ID839
+    100240: ID845
+    100242: ID860
+    100244: ID868
+    100246: ID876
+    100248: ID884
+    100250: ID892
+    100252: ID900
+    100254: ID908
+    100256: ID91
+    100258: ID916
+    100260: ID924
+    100262: ID932
+    100264: ID940
+    100266: ID948
+    100268: ID956
+    100270: ID964
+    100272: ID972
+    100274: ID980
+    100276: ID986
+    100278: instance_0
+    100280: instance_1
+    100282: instance_10
+    100284: instance_10 1
+    100286: instance_10 2
+    100288: instance_10 3
+    100290: instance_10 4
+    100292: instance_10 5
+    100294: instance_10 6
+    100296: instance_10 7
+    100298: instance_11
+    100300: instance_11 1
+    100302: instance_11 2
+    100304: instance_11 3
+    100306: instance_11 4
+    100308: instance_11 5
+    100310: instance_11 6
+    100312: instance_11 7
+    100314: instance_12
+    100316: instance_12 1
+    100318: instance_12 2
+    100320: instance_12 3
+    100322: instance_12 4
+    100324: instance_12 5
+    100326: instance_12 6
+    100328: instance_12 7
+    100330: instance_13
+    100332: instance_13 1
+    100334: instance_13 2
+    100336: instance_13 3
+    100338: instance_13 4
+    100340: instance_13 5
+    100342: instance_13 6
+    100344: instance_13 7
+    100346: instance_14
+    100348: instance_14 1
+    100350: instance_14 2
+    100352: instance_14 3
+    100354: instance_14 4
+    100356: instance_14 5
+    100358: instance_14 6
+    100360: instance_14 7
+    100362: instance_15
+    100364: instance_15 1
+    100366: instance_15 2
+    100368: instance_15 3
+    100370: instance_15 4
+    100372: instance_15 5
+    100374: instance_15 6
+    100376: instance_15 7
+    100378: instance_16
+    100380: instance_16 1
+    100382: instance_16 2
+    100384: instance_16 3
+    100386: instance_16 4
+    100388: instance_16 5
+    100390: instance_16 6
+    100392: instance_16 7
+    100394: instance_17
+    100396: instance_17 1
+    100398: instance_17 2
+    100400: instance_17 3
+    100402: instance_17 4
+    100404: instance_17 5
+    100406: instance_17 6
+    100408: instance_17 7
+    100410: instance_18
+    100412: instance_18 1
+    100414: instance_18 2
+    100416: instance_18 3
+    100418: instance_18 4
+    100420: instance_18 5
+    100422: instance_18 6
+    100424: instance_18 7
+    100426: instance_19
+    100428: instance_19 1
+    100430: instance_19 2
+    100432: instance_19 3
+    100434: instance_19 4
+    100436: instance_19 5
+    100438: instance_19 6
+    100440: instance_19 7
+    100442: instance_2
+    100444: instance_20
+    100446: instance_20 1
+    100448: instance_20 2
+    100450: instance_20 3
+    100452: instance_20 4
+    100454: instance_20 5
+    100456: instance_20 6
+    100458: instance_20 7
+    100460: instance_21
+    100462: instance_21 1
+    100464: instance_22
+    100466: instance_22 1
+    100468: instance_23
+    100470: instance_23 1
+    100472: instance_24
+    100474: instance_24 1
+    100476: instance_25
+    100478: instance_25 1
+    100480: instance_26
+    100482: instance_26 1
+    100484: instance_27
+    100486: instance_3
+    100488: instance_4
+    100490: instance_5
+    100492: instance_6
+    100494: instance_7
+    100496: instance_8
+    100498: instance_8 1
+    100500: instance_9
+    100502: instance_9 1
+    100504: instance_9 2
+    100506: instance_9 3
+    100508: instance_9 4
+    100510: instance_9 5
+    100512: instance_9 6
+    100514: instance_9 7
+    100516: //RootNode
+    100518: petal
+    100520: petal 1
+    100522: petal 10
+    100524: petal 11
+    100526: petal 12
+    100528: petal 13
+    100530: petal 14
+    100532: petal 15
+    100534: petal 16
+    100536: petal 17
+    100538: petal 18
+    100540: petal 19
+    100542: petal 2
+    100544: petal 20
+    100546: petal 21
+    100548: petal 22
+    100550: petal 23
+    100552: petal 24
+    100554: petal 25
+    100556: petal 26
+    100558: petal 27
+    100560: petal 28
+    100562: petal 29
+    100564: petal 3
+    100566: petal 30
+    100568: petal 31
+    100570: petal 32
+    100572: petal 33
+    100574: petal 34
+    100576: petal 35
+    100578: petal 36
+    100580: petal 37
+    100582: petal 38
+    100584: petal 39
+    100586: petal 4
+    100588: petal 40
+    100590: petal 41
+    100592: petal 42
+    100594: petal 43
+    100596: petal 44
+    100598: petal 45
+    100600: petal 46
+    100602: petal 47
+    100604: petal 48
+    100606: petal 49
+    100608: petal 5
+    100610: petal 50
+    100612: petal 51
+    100614: petal 52
+    100616: petal 53
+    100618: petal 54
+    100620: petal 55
+    100622: petal 56
+    100624: petal 57
+    100626: petal 58
+    100628: petal 59
+    100630: petal 6
+    100632: petal 60
+    100634: petal 61
+    100636: petal 62
+    100638: petal 63
+    100640: petal 64
+    100642: petal 65
+    100644: petal 66
+    100646: petal 67
+    100648: petal 68
+    100650: petal 69
+    100652: petal 7
+    100654: petal 70
+    100656: petal 71
+    100658: petal 72
+    100660: petal 73
+    100662: petal 74
+    100664: petal 75
+    100666: petal 76
+    100668: petal 77
+    100670: petal 78
+    100672: petal 79
+    100674: petal 8
+    100676: petal 80
+    100678: petal 81
+    100680: petal 82
+    100682: petal 83
+    100684: petal 84
+    100686: petal 85
+    100688: petal 86
+    100690: petal 87
+    100692: petal 88
+    100694: petal 89
+    100696: petal 9
+    100698: petal 90
+    100700: petal 91
+    100702: petal 92
+    100704: petal 93
+    100706: petal 94
+    100708: petal 95
+    100710: petal_cluster
+    100712: petal_cluster 1
+    100714: petal_cluster 2
+    100716: petal_cluster 3
+    100718: petal_cluster 4
+    100720: petal_cluster 5
+    100722: petal_cluster 6
+    100724: petal_cluster 7
+    100726: Plant_sunflower
+    100728: Plant_sunflower 1
+    100730: sketchup-download200702240902526
+    100732: skp_camera_Last_Saved_SketchUp_View
+    100734: sunflower_leaf
+    100736: sunflower_leaf 1
+    100738: sunflower_leaf 2
+    100740: sunflower_leaf 3
+    100742: The_Dining_Table_Set
+    100744: Vase_Quarter
+    100746: Vase_Quarter 1
+    100748: Vase_Quarter 2
+    100750: Vase_Quarter 3
+    100752: vase_thin
+    400000: Bamboo_Shoot
+    400002: Bamboo_Shoot 1
+    400004: group_0
+    400006: group_1
+    400008: group_10
+    400010: group_11
+    400012: group_2
+    400014: group_3
+    400016: group_4
+    400018: group_5
+    400020: group_6
+    400022: group_7
+    400024: group_8
+    400026: group_9
+    400028: ID1057
+    400030: ID1057 1
+    400032: ID1057 2
+    400034: ID1057 3
+    400036: ID1065
+    400038: ID1065 1
+    400040: ID1065 2
+    400042: ID1065 3
+    400044: ID108
+    400046: ID1080
+    400048: ID1080 1
+    400050: ID1086
+    400052: ID1086 1
+    400054: ID1090
+    400056: ID1090 1
+    400058: ID125
+    400060: ID148
+    400062: ID156
+    400064: ID164
+    400066: ID172
+    400068: ID180
+    400070: ID188
+    400072: ID196
+    400074: ID20
+    400076: ID209
+    400078: ID217
+    400080: ID225
+    400082: ID233
+    400084: ID241
+    400086: ID249
+    400088: ID257
+    400090: ID265
+    400092: ID273
+    400094: ID28
+    400096: ID281
+    400098: ID296
+    400100: ID304
+    400102: ID312
+    400104: ID320
+    400106: ID328
+    400108: ID336
+    400110: ID344
+    400112: ID352
+    400114: ID36
+    400116: ID360
+    400118: ID368
+    400120: ID376
+    400122: ID384
+    400124: ID392
+    400126: ID400
+    400128: ID408
+    400130: ID416
+    400132: ID422
+    400134: ID437
+    400136: ID44
+    400138: ID445
+    400140: ID453
+    400142: ID461
+    400144: ID469
+    400146: ID477
+    400148: ID485
+    400150: ID493
+    400152: ID501
+    400154: ID509
+    400156: ID517
+    400158: ID52
+    400160: ID525
+    400162: ID533
+    400164: ID541
+    400166: ID549
+    400168: ID557
+    400170: ID563
+    400172: ID578
+    400174: ID586
+    400176: ID594
+    400178: ID602
+    400180: ID610
+    400182: ID618
+    400184: ID626
+    400186: ID634
+    400188: ID642
+    400190: ID650
+    400192: ID658
+    400194: ID666
+    400196: ID674
+    400198: ID682
+    400200: ID690
+    400202: ID698
+    400204: ID704
+    400206: ID719
+    400208: ID727
+    400210: ID735
+    400212: ID74
+    400214: ID743
+    400216: ID751
+    400218: ID759
+    400220: ID767
+    400222: ID775
+    400224: ID783
+    400226: ID791
+    400228: ID799
+    400230: ID807
+    400232: ID815
+    400234: ID823
+    400236: ID831
+    400238: ID839
+    400240: ID845
+    400242: ID860
+    400244: ID868
+    400246: ID876
+    400248: ID884
+    400250: ID892
+    400252: ID900
+    400254: ID908
+    400256: ID91
+    400258: ID916
+    400260: ID924
+    400262: ID932
+    400264: ID940
+    400266: ID948
+    400268: ID956
+    400270: ID964
+    400272: ID972
+    400274: ID980
+    400276: ID986
+    400278: instance_0
+    400280: instance_1
+    400282: instance_10
+    400284: instance_10 1
+    400286: instance_10 2
+    400288: instance_10 3
+    400290: instance_10 4
+    400292: instance_10 5
+    400294: instance_10 6
+    400296: instance_10 7
+    400298: instance_11
+    400300: instance_11 1
+    400302: instance_11 2
+    400304: instance_11 3
+    400306: instance_11 4
+    400308: instance_11 5
+    400310: instance_11 6
+    400312: instance_11 7
+    400314: instance_12
+    400316: instance_12 1
+    400318: instance_12 2
+    400320: instance_12 3
+    400322: instance_12 4
+    400324: instance_12 5
+    400326: instance_12 6
+    400328: instance_12 7
+    400330: instance_13
+    400332: instance_13 1
+    400334: instance_13 2
+    400336: instance_13 3
+    400338: instance_13 4
+    400340: instance_13 5
+    400342: instance_13 6
+    400344: instance_13 7
+    400346: instance_14
+    400348: instance_14 1
+    400350: instance_14 2
+    400352: instance_14 3
+    400354: instance_14 4
+    400356: instance_14 5
+    400358: instance_14 6
+    400360: instance_14 7
+    400362: instance_15
+    400364: instance_15 1
+    400366: instance_15 2
+    400368: instance_15 3
+    400370: instance_15 4
+    400372: instance_15 5
+    400374: instance_15 6
+    400376: instance_15 7
+    400378: instance_16
+    400380: instance_16 1
+    400382: instance_16 2
+    400384: instance_16 3
+    400386: instance_16 4
+    400388: instance_16 5
+    400390: instance_16 6
+    400392: instance_16 7
+    400394: instance_17
+    400396: instance_17 1
+    400398: instance_17 2
+    400400: instance_17 3
+    400402: instance_17 4
+    400404: instance_17 5
+    400406: instance_17 6
+    400408: instance_17 7
+    400410: instance_18
+    400412: instance_18 1
+    400414: instance_18 2
+    400416: instance_18 3
+    400418: instance_18 4
+    400420: instance_18 5
+    400422: instance_18 6
+    400424: instance_18 7
+    400426: instance_19
+    400428: instance_19 1
+    400430: instance_19 2
+    400432: instance_19 3
+    400434: instance_19 4
+    400436: instance_19 5
+    400438: instance_19 6
+    400440: instance_19 7
+    400442: instance_2
+    400444: instance_20
+    400446: instance_20 1
+    400448: instance_20 2
+    400450: instance_20 3
+    400452: instance_20 4
+    400454: instance_20 5
+    400456: instance_20 6
+    400458: instance_20 7
+    400460: instance_21
+    400462: instance_21 1
+    400464: instance_22
+    400466: instance_22 1
+    400468: instance_23
+    400470: instance_23 1
+    400472: instance_24
+    400474: instance_24 1
+    400476: instance_25
+    400478: instance_25 1
+    400480: instance_26
+    400482: instance_26 1
+    400484: instance_27
+    400486: instance_3
+    400488: instance_4
+    400490: instance_5
+    400492: instance_6
+    400494: instance_7
+    400496: instance_8
+    400498: instance_8 1
+    400500: instance_9
+    400502: instance_9 1
+    400504: instance_9 2
+    400506: instance_9 3
+    400508: instance_9 4
+    400510: instance_9 5
+    400512: instance_9 6
+    400514: instance_9 7
+    400516: //RootNode
+    400518: petal
+    400520: petal 1
+    400522: petal 10
+    400524: petal 11
+    400526: petal 12
+    400528: petal 13
+    400530: petal 14
+    400532: petal 15
+    400534: petal 16
+    400536: petal 17
+    400538: petal 18
+    400540: petal 19
+    400542: petal 2
+    400544: petal 20
+    400546: petal 21
+    400548: petal 22
+    400550: petal 23
+    400552: petal 24
+    400554: petal 25
+    400556: petal 26
+    400558: petal 27
+    400560: petal 28
+    400562: petal 29
+    400564: petal 3
+    400566: petal 30
+    400568: petal 31
+    400570: petal 32
+    400572: petal 33
+    400574: petal 34
+    400576: petal 35
+    400578: petal 36
+    400580: petal 37
+    400582: petal 38
+    400584: petal 39
+    400586: petal 4
+    400588: petal 40
+    400590: petal 41
+    400592: petal 42
+    400594: petal 43
+    400596: petal 44
+    400598: petal 45
+    400600: petal 46
+    400602: petal 47
+    400604: petal 48
+    400606: petal 49
+    400608: petal 5
+    400610: petal 50
+    400612: petal 51
+    400614: petal 52
+    400616: petal 53
+    400618: petal 54
+    400620: petal 55
+    400622: petal 56
+    400624: petal 57
+    400626: petal 58
+    400628: petal 59
+    400630: petal 6
+    400632: petal 60
+    400634: petal 61
+    400636: petal 62
+    400638: petal 63
+    400640: petal 64
+    400642: petal 65
+    400644: petal 66
+    400646: petal 67
+    400648: petal 68
+    400650: petal 69
+    400652: petal 7
+    400654: petal 70
+    400656: petal 71
+    400658: petal 72
+    400660: petal 73
+    400662: petal 74
+    400664: petal 75
+    400666: petal 76
+    400668: petal 77
+    400670: petal 78
+    400672: petal 79
+    400674: petal 8
+    400676: petal 80
+    400678: petal 81
+    400680: petal 82
+    400682: petal 83
+    400684: petal 84
+    400686: petal 85
+    400688: petal 86
+    400690: petal 87
+    400692: petal 88
+    400694: petal 89
+    400696: petal 9
+    400698: petal 90
+    400700: petal 91
+    400702: petal 92
+    400704: petal 93
+    400706: petal 94
+    400708: petal 95
+    400710: petal_cluster
+    400712: petal_cluster 1
+    400714: petal_cluster 2
+    400716: petal_cluster 3
+    400718: petal_cluster 4
+    400720: petal_cluster 5
+    400722: petal_cluster 6
+    400724: petal_cluster 7
+    400726: Plant_sunflower
+    400728: Plant_sunflower 1
+    400730: sketchup-download200702240902526
+    400732: skp_camera_Last_Saved_SketchUp_View
+    400734: sunflower_leaf
+    400736: sunflower_leaf 1
+    400738: sunflower_leaf 2
+    400740: sunflower_leaf 3
+    400742: The_Dining_Table_Set
+    400744: Vase_Quarter
+    400746: Vase_Quarter 1
+    400748: Vase_Quarter 2
+    400750: Vase_Quarter 3
+    400752: vase_thin
+    2000000: skp_camera_Last_Saved_SketchUp_View
+    2100000: Wood_Cherry_Original
+    2100002: Wood_Floor_Parquet
+    2100004: Carpet_Pattern_LeafSquares_Tan
+    2100006: material
+    2100008: __Blue_Glass_
+    2100010: Bisque_Translucent
+    2100012: __Dark_Yellow_
+    2100014: __Light_Oliv_
+    2100016: __OrangeRed_
+    2100018: __Olive_1
+    2100020: __Yellow_Green_
+    2300000: Bamboo_Shoot
+    2300002: Bamboo_Shoot 1
+    2300004: group_1
+    2300006: group_10
+    2300008: group_11
+    2300010: group_2
+    2300012: group_3
+    2300014: group_4
+    2300016: group_5
+    2300018: group_6
+    2300020: group_7
+    2300022: group_8
+    2300024: group_9
+    2300026: ID1057
+    2300028: ID1057 1
+    2300030: ID1057 2
+    2300032: ID1057 3
+    2300034: ID108
+    2300036: ID1080
+    2300038: ID1080 1
+    2300040: ID125
+    2300042: ID148
+    2300044: ID156
+    2300046: ID164
+    2300048: ID172
+    2300050: ID180
+    2300052: ID188
+    2300054: ID196
+    2300056: ID20
+    2300058: ID209
+    2300060: ID217
+    2300062: ID225
+    2300064: ID233
+    2300066: ID241
+    2300068: ID249
+    2300070: ID257
+    2300072: ID265
+    2300074: ID273
+    2300076: ID28
+    2300078: ID281
+    2300080: ID296
+    2300082: ID304
+    2300084: ID312
+    2300086: ID320
+    2300088: ID328
+    2300090: ID336
+    2300092: ID344
+    2300094: ID352
+    2300096: ID36
+    2300098: ID360
+    2300100: ID368
+    2300102: ID376
+    2300104: ID384
+    2300106: ID392
+    2300108: ID400
+    2300110: ID408
+    2300112: ID416
+    2300114: ID422
+    2300116: ID437
+    2300118: ID44
+    2300120: ID445
+    2300122: ID453
+    2300124: ID461
+    2300126: ID469
+    2300128: ID477
+    2300130: ID485
+    2300132: ID493
+    2300134: ID501
+    2300136: ID509
+    2300138: ID517
+    2300140: ID52
+    2300142: ID525
+    2300144: ID533
+    2300146: ID541
+    2300148: ID549
+    2300150: ID557
+    2300152: ID563
+    2300154: ID578
+    2300156: ID586
+    2300158: ID594
+    2300160: ID602
+    2300162: ID610
+    2300164: ID618
+    2300166: ID626
+    2300168: ID634
+    2300170: ID642
+    2300172: ID650
+    2300174: ID658
+    2300176: ID666
+    2300178: ID674
+    2300180: ID682
+    2300182: ID690
+    2300184: ID698
+    2300186: ID704
+    2300188: ID719
+    2300190: ID727
+    2300192: ID735
+    2300194: ID74
+    2300196: ID743
+    2300198: ID751
+    2300200: ID759
+    2300202: ID767
+    2300204: ID775
+    2300206: ID783
+    2300208: ID791
+    2300210: ID799
+    2300212: ID807
+    2300214: ID815
+    2300216: ID823
+    2300218: ID831
+    2300220: ID839
+    2300222: ID845
+    2300224: ID860
+    2300226: ID868
+    2300228: ID876
+    2300230: ID884
+    2300232: ID892
+    2300234: ID900
+    2300236: ID908
+    2300238: ID91
+    2300240: ID916
+    2300242: ID924
+    2300244: ID932
+    2300246: ID940
+    2300248: ID948
+    2300250: ID956
+    2300252: ID964
+    2300254: ID972
+    2300256: ID980
+    2300258: ID986
+    2300260: petal
+    2300262: petal 1
+    2300264: petal 10
+    2300266: petal 11
+    2300268: petal 12
+    2300270: petal 13
+    2300272: petal 14
+    2300274: petal 15
+    2300276: petal 16
+    2300278: petal 17
+    2300280: petal 18
+    2300282: petal 19
+    2300284: petal 2
+    2300286: petal 20
+    2300288: petal 21
+    2300290: petal 22
+    2300292: petal 23
+    2300294: petal 24
+    2300296: petal 25
+    2300298: petal 26
+    2300300: petal 27
+    2300302: petal 28
+    2300304: petal 29
+    2300306: petal 3
+    2300308: petal 30
+    2300310: petal 31
+    2300312: petal 32
+    2300314: petal 33
+    2300316: petal 34
+    2300318: petal 35
+    2300320: petal 36
+    2300322: petal 37
+    2300324: petal 38
+    2300326: petal 39
+    2300328: petal 4
+    2300330: petal 40
+    2300332: petal 41
+    2300334: petal 42
+    2300336: petal 43
+    2300338: petal 44
+    2300340: petal 45
+    2300342: petal 46
+    2300344: petal 47
+    2300346: petal 48
+    2300348: petal 49
+    2300350: petal 5
+    2300352: petal 50
+    2300354: petal 51
+    2300356: petal 52
+    2300358: petal 53
+    2300360: petal 54
+    2300362: petal 55
+    2300364: petal 56
+    2300366: petal 57
+    2300368: petal 58
+    2300370: petal 59
+    2300372: petal 6
+    2300374: petal 60
+    2300376: petal 61
+    2300378: petal 62
+    2300380: petal 63
+    2300382: petal 64
+    2300384: petal 65
+    2300386: petal 66
+    2300388: petal 67
+    2300390: petal 68
+    2300392: petal 69
+    2300394: petal 7
+    2300396: petal 70
+    2300398: petal 71
+    2300400: petal 72
+    2300402: petal 73
+    2300404: petal 74
+    2300406: petal 75
+    2300408: petal 76
+    2300410: petal 77
+    2300412: petal 78
+    2300414: petal 79
+    2300416: petal 8
+    2300418: petal 80
+    2300420: petal 81
+    2300422: petal 82
+    2300424: petal 83
+    2300426: petal 84
+    2300428: petal 85
+    2300430: petal 86
+    2300432: petal 87
+    2300434: petal 88
+    2300436: petal 89
+    2300438: petal 9
+    2300440: petal 90
+    2300442: petal 91
+    2300444: petal 92
+    2300446: petal 93
+    2300448: petal 94
+    2300450: petal 95
+    2300452: Plant_sunflower
+    2300454: Plant_sunflower 1
+    2300456: sunflower_leaf
+    2300458: sunflower_leaf 1
+    2300460: sunflower_leaf 2
+    2300462: sunflower_leaf 3
+    2300464: Vase_Quarter
+    2300466: Vase_Quarter 1
+    2300468: Vase_Quarter 2
+    2300470: Vase_Quarter 3
+    3300000: Bamboo_Shoot
+    3300002: Bamboo_Shoot 1
+    3300004: group_1
+    3300006: group_10
+    3300008: group_11
+    3300010: group_2
+    3300012: group_3
+    3300014: group_4
+    3300016: group_5
+    3300018: group_6
+    3300020: group_7
+    3300022: group_8
+    3300024: group_9
+    3300026: ID1057
+    3300028: ID1057 1
+    3300030: ID1057 2
+    3300032: ID1057 3
+    3300034: ID108
+    3300036: ID1080
+    3300038: ID1080 1
+    3300040: ID125
+    3300042: ID148
+    3300044: ID156
+    3300046: ID164
+    3300048: ID172
+    3300050: ID180
+    3300052: ID188
+    3300054: ID196
+    3300056: ID20
+    3300058: ID209
+    3300060: ID217
+    3300062: ID225
+    3300064: ID233
+    3300066: ID241
+    3300068: ID249
+    3300070: ID257
+    3300072: ID265
+    3300074: ID273
+    3300076: ID28
+    3300078: ID281
+    3300080: ID296
+    3300082: ID304
+    3300084: ID312
+    3300086: ID320
+    3300088: ID328
+    3300090: ID336
+    3300092: ID344
+    3300094: ID352
+    3300096: ID36
+    3300098: ID360
+    3300100: ID368
+    3300102: ID376
+    3300104: ID384
+    3300106: ID392
+    3300108: ID400
+    3300110: ID408
+    3300112: ID416
+    3300114: ID422
+    3300116: ID437
+    3300118: ID44
+    3300120: ID445
+    3300122: ID453
+    3300124: ID461
+    3300126: ID469
+    3300128: ID477
+    3300130: ID485
+    3300132: ID493
+    3300134: ID501
+    3300136: ID509
+    3300138: ID517
+    3300140: ID52
+    3300142: ID525
+    3300144: ID533
+    3300146: ID541
+    3300148: ID549
+    3300150: ID557
+    3300152: ID563
+    3300154: ID578
+    3300156: ID586
+    3300158: ID594
+    3300160: ID602
+    3300162: ID610
+    3300164: ID618
+    3300166: ID626
+    3300168: ID634
+    3300170: ID642
+    3300172: ID650
+    3300174: ID658
+    3300176: ID666
+    3300178: ID674
+    3300180: ID682
+    3300182: ID690
+    3300184: ID698
+    3300186: ID704
+    3300188: ID719
+    3300190: ID727
+    3300192: ID735
+    3300194: ID74
+    3300196: ID743
+    3300198: ID751
+    3300200: ID759
+    3300202: ID767
+    3300204: ID775
+    3300206: ID783
+    3300208: ID791
+    3300210: ID799
+    3300212: ID807
+    3300214: ID815
+    3300216: ID823
+    3300218: ID831
+    3300220: ID839
+    3300222: ID845
+    3300224: ID860
+    3300226: ID868
+    3300228: ID876
+    3300230: ID884
+    3300232: ID892
+    3300234: ID900
+    3300236: ID908
+    3300238: ID91
+    3300240: ID916
+    3300242: ID924
+    3300244: ID932
+    3300246: ID940
+    3300248: ID948
+    3300250: ID956
+    3300252: ID964
+    3300254: ID972
+    3300256: ID980
+    3300258: ID986
+    3300260: petal
+    3300262: petal 1
+    3300264: petal 10
+    3300266: petal 11
+    3300268: petal 12
+    3300270: petal 13
+    3300272: petal 14
+    3300274: petal 15
+    3300276: petal 16
+    3300278: petal 17
+    3300280: petal 18
+    3300282: petal 19
+    3300284: petal 2
+    3300286: petal 20
+    3300288: petal 21
+    3300290: petal 22
+    3300292: petal 23
+    3300294: petal 24
+    3300296: petal 25
+    3300298: petal 26
+    3300300: petal 27
+    3300302: petal 28
+    3300304: petal 29
+    3300306: petal 3
+    3300308: petal 30
+    3300310: petal 31
+    3300312: petal 32
+    3300314: petal 33
+    3300316: petal 34
+    3300318: petal 35
+    3300320: petal 36
+    3300322: petal 37
+    3300324: petal 38
+    3300326: petal 39
+    3300328: petal 4
+    3300330: petal 40
+    3300332: petal 41
+    3300334: petal 42
+    3300336: petal 43
+    3300338: petal 44
+    3300340: petal 45
+    3300342: petal 46
+    3300344: petal 47
+    3300346: petal 48
+    3300348: petal 49
+    3300350: petal 5
+    3300352: petal 50
+    3300354: petal 51
+    3300356: petal 52
+    3300358: petal 53
+    3300360: petal 54
+    3300362: petal 55
+    3300364: petal 56
+    3300366: petal 57
+    3300368: petal 58
+    3300370: petal 59
+    3300372: petal 6
+    3300374: petal 60
+    3300376: petal 61
+    3300378: petal 62
+    3300380: petal 63
+    3300382: petal 64
+    3300384: petal 65
+    3300386: petal 66
+    3300388: petal 67
+    3300390: petal 68
+    3300392: petal 69
+    3300394: petal 7
+    3300396: petal 70
+    3300398: petal 71
+    3300400: petal 72
+    3300402: petal 73
+    3300404: petal 74
+    3300406: petal 75
+    3300408: petal 76
+    3300410: petal 77
+    3300412: petal 78
+    3300414: petal 79
+    3300416: petal 8
+    3300418: petal 80
+    3300420: petal 81
+    3300422: petal 82
+    3300424: petal 83
+    3300426: petal 84
+    3300428: petal 85
+    3300430: petal 86
+    3300432: petal 87
+    3300434: petal 88
+    3300436: petal 89
+    3300438: petal 9
+    3300440: petal 90
+    3300442: petal 91
+    3300444: petal 92
+    3300446: petal 93
+    3300448: petal 94
+    3300450: petal 95
+    3300452: Plant_sunflower
+    3300454: Plant_sunflower 1
+    3300456: sunflower_leaf
+    3300458: sunflower_leaf 1
+    3300460: sunflower_leaf 2
+    3300462: sunflower_leaf 3
+    3300464: Vase_Quarter
+    3300466: Vase_Quarter 1
+    3300468: Vase_Quarter 2
+    3300470: Vase_Quarter 3
+    4300000: group_1
+    4300002: ID20
+    4300004: ID28
+    4300006: ID36
+    4300008: ID44
+    4300010: ID52
+    4300012: group_2
+    4300014: ID74
+    4300016: group_3
+    4300018: ID91
+    4300020: group_4
+    4300022: ID108
+    4300024: group_5
+    4300026: ID125
+    4300028: group_6
+    4300030: ID148
+    4300032: ID156
+    4300034: ID164
+    4300036: ID172
+    4300038: ID180
+    4300040: ID188
+    4300042: ID196
+    4300044: ID209
+    4300046: ID217
+    4300048: ID225
+    4300050: ID233
+    4300052: ID241
+    4300054: ID249
+    4300056: ID257
+    4300058: ID265
+    4300060: ID273
+    4300062: ID281
+    4300064: group_7
+    4300066: ID296
+    4300068: ID304
+    4300070: ID312
+    4300072: ID320
+    4300074: ID328
+    4300076: ID336
+    4300078: ID344
+    4300080: ID352
+    4300082: ID360
+    4300084: ID368
+    4300086: ID376
+    4300088: ID384
+    4300090: ID392
+    4300092: ID400
+    4300094: ID408
+    4300096: ID416
+    4300098: ID422
+    4300100: group_8
+    4300102: ID437
+    4300104: ID445
+    4300106: ID453
+    4300108: ID461
+    4300110: ID469
+    4300112: ID477
+    4300114: ID485
+    4300116: ID493
+    4300118: ID501
+    4300120: ID509
+    4300122: ID517
+    4300124: ID525
+    4300126: ID533
+    4300128: ID541
+    4300130: ID549
+    4300132: ID557
+    4300134: ID563
+    4300136: group_9
+    4300138: ID578
+    4300140: ID586
+    4300142: ID594
+    4300144: ID602
+    4300146: ID610
+    4300148: ID618
+    4300150: ID626
+    4300152: ID634
+    4300154: ID642
+    4300156: ID650
+    4300158: ID658
+    4300160: ID666
+    4300162: ID674
+    4300164: ID682
+    4300166: ID690
+    4300168: ID698
+    4300170: ID704
+    4300172: group_10
+    4300174: ID719
+    4300176: ID727
+    4300178: ID735
+    4300180: ID743
+    4300182: ID751
+    4300184: ID759
+    4300186: ID767
+    4300188: ID775
+    4300190: ID783
+    4300192: ID791
+    4300194: ID799
+    4300196: ID807
+    4300198: ID815
+    4300200: ID823
+    4300202: ID831
+    4300204: ID839
+    4300206: ID845
+    4300208: group_11
+    4300210: ID860
+    4300212: ID868
+    4300214: ID876
+    4300216: ID884
+    4300218: ID892
+    4300220: ID900
+    4300222: ID908
+    4300224: ID916
+    4300226: ID924
+    4300228: ID932
+    4300230: ID940
+    4300232: ID948
+    4300234: ID956
+    4300236: ID964
+    4300238: ID972
+    4300240: ID980
+    4300242: ID986
+    4300244: Vase_Quarter
+    4300246: Plant_sunflower
+    4300248: ID1080
+    4300250: petal
+    4300252: Bamboo_Shoot
+    4300254: sunflower_leaf
+    4300256: ID1057
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

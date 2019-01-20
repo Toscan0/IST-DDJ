@@ -1,0 +1,31 @@
+office - Tenta resolver o puzzle da lootbox sem a ultima peça -> "It's missing a piece, can't solve the puzzle without it"
+
+office - Tenta abrir a porta sem chave -> "I must first find the key"
+
+arrecadação - Apanha a lanterna -> "This is a strange lantern. Why is it purple?"
+
+Sala - Tenta partir a parede sem marreta -> "Must find something to break the wall with"
+
+Sala quadro - Tenta abrir a porta sem a riddle -> "This door is protected by a curse, must lift it with (riddles, charms, o q chamarmos às folhas).
+
+Cozinha - Tenta abrir porta sem codigo -> "I forgot the code. This markings on the wall must be the numbers order, but were are the numbers?"
+
+
+
+
+
+
+2nd level:
+Logo no inicio -> "Power is gonne. Where is the electric box?"
+
+Corredor - Após passar pelo trigger do grito do monstro inicial -> "He's out there!!! If He finds me, He will kill me"
+
+Arrecadação - Ao interagir com o quadro eléctrico -> " Here is the electric box. But the connections are broken. Must fix it"
+
+Corredor - Quando tenta interagir com o quadro incompleto -> "I must find the pieces of the picture has she told me to"
+
+Quarto Criança - Tenta abrir a porta sem codigo - "It's locked by this mechanism, must find the code"
+
+Quarto Final - Ao entrar -> "It all ends here, must perform the ritual".
+
+Quarto Final - Ao abrir o cofre -> "I have the pieces of the ritual, must complete the circle, and find the three pieces hidden by riddles. What will happen when I complete it?"
